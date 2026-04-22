@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://subnautica.gameguidejp.com/sitemap.xml
+Sitemap: https://subnautica2.gameguidejp.com/sitemap.xml
