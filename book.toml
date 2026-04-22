@@ -1,0 +1,22 @@
+[book]
+title = "Subnautica 2 日本語攻略まとめ"
+description = "Subnautica 2（サブノーティカ2）の日本語攻略まとめ。バイオーム・生物・乗り物・基地建設・マルチプレイなど、Early Access最新情報を日本語で解説。"
+authors = ["subnautica2-jp"]
+language = "ja"
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+no-section-label = false
+site-url = "/"
+# 独自ドメイン: https://subnautica.gameguidejp.com/
+additional-css = ["theme/custom.css"]
+additional-js = ["theme/analytics.js", "theme/kofi.js", "theme/pagefind.js", "theme/footer.js"]
+
+[output.html.fold]
+enable = true
+level = 99
