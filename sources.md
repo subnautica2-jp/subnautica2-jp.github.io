@@ -1,37 +1,35 @@
 # 情報源一覧
 
-本サイトの情報は以下のソースをもとにまとめています。
+本サイトの情報は以下のソースをもとにまとめています。情報源の信頼性に応じて分類しています。
 
-## 公式情報源
+## 公式情報源（Tier 1：最優先）
 
 | 名前 | URL | 内容 |
 |------|-----|------|
 | Steam ストアページ | https://store.steampowered.com/app/1962700/Subnautica_2/ | ゲーム概要・公式タグ・スクリーンショット |
+| Steam Community Discussions | https://steamcommunity.com/app/1962700 | 実プレイヤーのディスカッション・トラブル報告 |
 | Steam ニュース | https://store.steampowered.com/news/app/1962700 | パッチノート・更新情報（ブラウザ閲覧用） |
-| Steam ニュースRSSフィード | https://store.steampowered.com/feeds/news/app/1962700/ | パッチノート取得用（プログラム/自動化向け） |
+| Steam ニュース RSS フィード | https://store.steampowered.com/feeds/news/app/1962700/ | パッチノート取得用（プログラム/自動化向け） |
 | SteamDB | https://steamdb.info/app/1962700/ | パッチ履歴・ビルド情報・価格履歴 |
-| Unknown Worlds 公式ニュース | https://unknownworlds.com/en/news/subnautica-2-coming-2026 | 開発元の大型告知記事 |
-| 公式コミュニティハブ subnautica2.gg | https://subnautica2.gg/ | 世界観・コンセプトアート・コミュニティ |
-| 公式 Dev Vlog プレイリスト | https://www.youtube.com/playlist?list=PL_MvZYBBisFa33IvGtXwRnhlAdaAngLvL | 開発状況・システム解説（2026年4月時点で5本公開） |
+| Unknown Worlds 公式ニュース | https://unknownworlds.com/en/news/ | 開発元の公式告知 |
+| Reddit r/Subnautica2 | https://www.reddit.com/r/Subnautica2/ | プレイヤーコミュニティ |
+| Reddit r/Subnautica | https://www.reddit.com/r/Subnautica/ | シリーズ全般のコミュニティ |
 
-## 海外Wiki
-
-| 名前 | URL | 内容 |
-|------|-----|------|
-| Fandom（Subnautica内） | https://subnautica.fandom.com/wiki/Subnautica_2 | 大手Wiki内のSubnautica 2 専用ページ |
-| Fandom（Subnautica 2 専用） | https://subnautica2.fandom.com/wiki/Subnautica_2_Wiki | Subnautica 2 専用Fandom Wiki |
-| subnautica2wiki.com | https://www.subnautica2wiki.com/ | 独立系Wiki |
-| supercraft.host | https://supercraft.host/wiki/subnautica-2/ | コミュニティWiki |
-
-## 日本語既存サイト（参考・固有名詞参照）
+## 海外コミュニティ Wiki（Tier 2：参考）
 
 | 名前 | URL | 内容 |
 |------|-----|------|
-| wikiwiki.jp Subnautica 2 | https://wikiwiki.jp/subnautica2/ | 既存日本語Wiki（中程度整備、最終更新2026-04-02） |
+| Subnautica Wiki (Fandom) | https://subnautica.fandom.com/wiki/Subnautica_2 | 大手 Wiki 内の Subnautica 2 ページ |
+| wiki.subnautica.com (Fextralife系) | https://wiki.subnautica.com/sn2 | Fextralife系の Subnautica 2 Wiki |
+
+## 大手ゲームメディア（Tier 2：参考）
+
+PC Gamer / GameSpot / Kotaku / Eurogamer / IGN / TechRaptor 等の大手ゲームメディアの記事を参考にしています。具体的な記事 URL は各ページの末尾「情報ソース」を参照してください。
 
 ## 注意事項
 
 - 本サイトの情報は有志が収集・翻訳したものです
 - 公式の見解や保証はありません
 - ゲームのアップデートにより情報が古くなる場合があります
-- 特にEarly Access期間中はバランス・仕様の変動が大きいため、確定情報はゲーム内表示・公式リリースノートを優先してください
+- 特に Early Access 期間中はバランス・仕様の変動が大きいため、確定情報はゲーム内表示・公式リリースノートを優先してください
+- EA 開始直後はコミュニティの実プレイ検証情報の蓄積が浅いため、本サイトでは具体数値の記載を抑制しています。継続的に情報を更新します

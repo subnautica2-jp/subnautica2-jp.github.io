@@ -1,29 +1,37 @@
 # バイオーム概要
 
-<div class="pre-release-notice">
-※ 2026年4月時点で公開されているバイオーム情報は限定的です。コンセプトアートやDev Vlogでの言及をベースに整理しています。EA開始後に確定情報で更新します。
-</div>
+> Subnautica 2 EA の舞台 **惑星 Zezura** に存在するバイオームの一覧。各バイオーム個別ページで詳細を解説します。
 
-Subnautica 2 の舞台は **Below Zero以降の未知の月** です。前作Subnautica（4546B惑星）・Below Zero（同惑星別大陸）とは別の世界となります。
+## 領域構成
 
-## 公開済みバイオーム一覧
+EA時点で2つの大領域＋マップ外周のVoidが確認されています：
 
-| 名称 | 状態 | 想定深度 | 特徴 |
-|------|------|---------|------|
-| [Graveyard（グレイブヤード）](graveyard.md) | 公開済み | 不明 | 名称から「沈船・遺骸・廃墟」系の雰囲気と推測 |
-| [Plateaus（プラトー）](plateaus.md) | 公開済み | 不明 | 名称から「台地・平原」系の地形と推測 |
-| [Thermal Spires（サーマルスパイア）](thermal-spires.md) | コンセプト段階 | 不明 | 熱水噴出孔・尖塔状の地形 |
+- **Coral Gardens Region（コーラルガーデン領域）**: スタート地点を含む浅瀬中心の領域
+- **Karakorum Region（カラコルム領域）**: 高温・特殊資源の領域
+- **Void（ボイド）**: マップ外周の危険領域
 
-## バイオームに関する未確定事項
+## バイオーム一覧
 
-- 各バイオームの **実際の地形・出現生物・素材** の詳細
-- バイオーム間の接続関係・移動経路
-- 危険度・推奨深度
-- バイオーム固有のストーリーイベント
+| 名称 | 領域 | 特徴 |
+|------|------|------|
+| [Graveyard Spires（墓場の尖塔）](graveyard.md) | Coral Gardens | 異星船残骸と巨大生物の骨が散在 |
+| [Kelp Forest（ケルプフォレスト）](kelp-forest.md) | Coral Gardens | 浅瀬の安全エリア。序盤主活動エリア |
+| [Sparse Plains（スパース平原）](sparse-plains.md) | Coral Gardens | Collector Leviathan の縄張り。危険度高 |
+| [Jelly Plateaus（ゼリー高原）](plateaus.md) | Karakorum | クラゲ系生物が生息する高原地帯 |
+| [Thermal Spires（サーマルスパイア）](thermal-spires.md) | Karakorum | 地熱噴出柱。熱対策が必要 |
+| [Void（ボイド）](void.md) | マップ外周 | Void Leviathan のパトロール域。即死リスク |
+
+> ※ バイオーム名は英語コミュニティでの呼称。公式日本語訳が判明次第更新します。
+
+## バイオームに関する注意事項
+
+- EA期間中は新バイオームの追加・既存バイオームの調整が予定されています
+- 各バイオームの正確な深度範囲・出現生物リストは Tier 1 ソースの蓄積待ちで、本サイトでは断定的な数値記載を控えています
+- マップ上の **「Early Access境界（赤い縞模様の壁）」** を越えると未調整領域に入り即死リスクがあります
 
 ## 情報ソース
 
-- [公式 Dev Vlog プレイリスト](https://www.youtube.com/playlist?list=PL_MvZYBBisFa33IvGtXwRnhlAdaAngLvL)
-- [公式コミュニティハブ subnautica2.gg](https://subnautica2.gg/)
-- [Fandom Subnautica 2 Wiki](https://subnautica2.fandom.com/wiki/Subnautica_2_Wiki)
-- [subnautica2wiki.com](https://www.subnautica2wiki.com/)
+- [Steam Community](https://steamcommunity.com/app/1962700)
+- [Subnautica Wiki (Fandom)](https://subnautica.fandom.com/wiki/Subnautica_2)
+- [wiki.subnautica.com (Fextralife系)](https://wiki.subnautica.com/sn2/Biomes)
+- [Unknown Worlds 公式](https://unknownworlds.com/en/news/)

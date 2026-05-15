@@ -1,37 +1,36 @@
 # Collector Leviathan（コレクター・リヴァイアサン）
 
-<div class="pre-release-notice">
-※ 2026年4月時点で公式から公開された情報は限定的です。確定情報はEA開始後に追記します。
-</div>
+> Sparse Plains を縄張りとする **Leviathan クラス** の超大型捕食者。**4 本の機能分化触手**を持つ巨大頭足類。
 
 ## 概要
 
-Subnautica 2 で公開されている **リヴァイアサンクラス** の生物。前作シリーズと同様、リヴァイアサンクラスは **超大型・最高警戒の生物** であり、序盤の接触は推奨されません。
+Subnautica 2 EA で登場する Leviathan クラスの 1 体。**Sparse Plains** バイオームを主な縄張りとし、機能の異なる 4 本の触手で獲物を捕らえる頭足類型のシルエットを持ちます。
 
-## 公開情報
+## 行動・特性
 
-- 名称: **Collector Leviathan**
-- 種別: **Leviathan Class**（超大型）
-- Dev Vlog またはコンセプトアートでの言及あり
+- **能動的捕食者**: プレイヤーを発見すると追跡を開始
+- **AI がリアルタイムで状況再評価**: バイオーム境界を越えて執拗に追跡してくるとの報告あり
+- **撃破不可**: 他の Leviathan 同様、撃破は想定されておらず回避前提
 
-## 推測される特徴
+## 対処法
 
-名称「Collector（収集家）」から、何かを **集める／拾う／巣に運ぶ** 行動パターンを持つ可能性があります。前作のリヴァイアサンクラス（Reaper・Ghost・Sea Dragon等）が攻撃特化型だったのに対し、独特な行動を取るタイプかもしれません。
-
-## 確定情報待ちの項目
-
-- 実際のサイズ・シルエット
-- 出現バイオーム
-- 攻撃性・接触時の挙動
-- 「Collector（収集家）」という名前の由来となる行動パターン
-- 倒せるか、もしくは回避前提か
+- **フレア**で一時的に注意を逸らせるとの報告あり
+- 一定距離以上（コミュニティ報告では数万ユニット）離れると消滅
+- 視界の開けた Sparse Plains では早めの察知が可能。物陰やバイオーム境界へ撤退
 
 ## 注意事項
 
-リヴァイアサンクラスの生物は **序盤・中盤での意図しない遭遇** で大きなダメージを受ける可能性が高い。深場・広い領域を探索するときは事前情報を確認してから進行することを推奨します。
+- 序盤での Sparse Plains 進入は推奨されない
+- Tadpole などの潜水艇に乗っていても脅威となるため、Sparse Plains 探索は装備・拠点を整えてから
+
+## 確認できていない事項
+
+- HP・ダメージ等の具体数値（Tier 1 で未確認）
+- 触手の機能の詳細
+- 撃破手段の有無
 
 ## 情報ソース
 
-- [公式 Dev Vlog プレイリスト](https://www.youtube.com/playlist?list=PL_MvZYBBisFa33IvGtXwRnhlAdaAngLvL)
-- [Fandom Subnautica 2 Wiki](https://subnautica2.fandom.com/wiki/Subnautica_2_Wiki)
-- [supercraft.host Subnautica 2 wiki](https://supercraft.host/wiki/subnautica-2/)
+- [Steam Community](https://steamcommunity.com/app/1962700)
+- [Subnautica Wiki (Fandom)](https://subnautica.fandom.com/wiki/Subnautica_2)
+- [wiki.subnautica.com](https://wiki.subnautica.com/sn2)

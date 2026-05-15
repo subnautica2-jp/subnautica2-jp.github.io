@@ -1,47 +1,62 @@
 # 世界観・舞台設定
 
-<div class="pre-release-notice">
-※ 2026年4月時点で公開されている世界観情報をまとめています。確定情報はEA開始後に追記します。
-</div>
+> Subnautica 2 EA の世界観・舞台。
 
 ## 舞台
 
 | 項目 | 内容 |
 |------|------|
-| 舞台 | **未知の月**（衛星） |
-| 時系列 | **Subnautica: Below Zero 以降** |
+| 舞台 | **新惑星 Zezura（ゼズーラ）** |
+| 時系列 | Subnautica: Below Zero 以降 |
 | 前作との関係 | キャラクター・ロケーション・乗り物は登場しない |
+
+## Zezura（ゼズーラ）
+
+惑星 **Zezura** は、Subnauticaシリーズの新たな舞台。前作の 4546B 惑星とは異なる、**塩原・アルカリ土壌の冷たい異星**との二次ソース報告があります（Tier 1 での詳細確証は限定的）。
+
+二大領域＋外周 Void の 3 領域で構成されており、現状以下が確認されています：
+
+- **Coral Gardens Region**: スタート地点を含む浅瀬中心の領域
+- **Karakorum Region**: 高温・特殊資源（Gold / Conduit Crystal 等）の領域
+- **Void**: マップ外周の危険領域（Void Leviathan のパトロール域）
+
+## NoA（軌道上の母艦／拠点）
+
+**NoA** はプレイヤーを支援する AI で、軌道上の母艦／拠点としてプレイヤーにミッションを発行します。前作の PDA 音声ナレーションに代わる新規要素で、単なるナレーター以上の役割を持ちます。
+
+- ミッションの提示
+- ライフポッドの発射機能
+- ストーリー進行のガイド役
 
 ## 前作シリーズとの関係
 
-Subnauticaシリーズの **公式な続編** ですが、舞台は前作の惑星 4546B から **別の月** へ移ります。前作で登場した:
+Subnauticaシリーズの **公式な続編** ですが、舞台は前作の惑星 4546B から **新惑星 Zezura** へ移ります。前作で登場した：
 
 - Aurora号・船員のキャラクター
-- Architects・Precursorsの遺跡（前作の主要lore）
-- Seamoth・Cyclops・PRAWN等の乗り物
-- 4546Bの生物・地形
+- Architects・Precursors の遺跡
+- Seamoth・Cyclops・PRAWN 等の乗り物
+- 4546B の生物・地形
 
 これらは **登場しません**。
 
-ただし、Subnauticaシリーズ全体の世界観・科学設定（Carar菌・Architects等の存在）は背景としては継承される可能性があります。
+ただし、Subnauticaシリーズ全体の世界観・科学設定は背景として継承される可能性があります。
 
-## 開発元の意図
+## キャラクター
 
-- **シリーズの新規参入者にも分かりやすい構成**
-- 前作プレイヤーには **既知のシリーズ世界の別エリアを探索する楽しみ**
-- マルチプレイで4人協力プレイを前提とした世界設計
+主人公は **複数のプリセット** から選択可能。Co-op を前提とした設計のため、複数のキャラクターが世界に同時存在しても違和感のない設計です。
 
-## 確定情報待ちの項目
+> ※ プリセットの正確な数は公式から数を伏せた表現で言及されており、二次ソースで「4種」「複数」など揺れがあります。本サイトでは「複数のプリセット」と表記しています。
 
-- 月の名称
-- 月の主・もしくは支配する勢力
-- 主人公が月に来た経緯
-- ストーリー上の主目的
-- Below Zero との具体的な時系列関係
+## 確認できていない事項
+
+- ストーリー全体のアウトライン
+- 主要 NPC の詳細
+- 派閥・組織
 - 既知のシリーズ要素（Architects等）の関与の有無
+- Below Zero との具体的な時系列関係
 
 ## 情報ソース
 
-- [Unknown Worlds 公式ニュース](https://unknownworlds.com/en/news/subnautica-2-coming-2026)
-- [公式コミュニティハブ subnautica2.gg](https://subnautica2.gg/)
-- [公式 Dev Vlog プレイリスト](https://www.youtube.com/playlist?list=PL_MvZYBBisFa33IvGtXwRnhlAdaAngLvL)
+- [Steam Community](https://steamcommunity.com/app/1962700)
+- [Unknown Worlds 公式](https://unknownworlds.com/en/news/)
+- [Subnautica Wiki (Fandom)](https://subnautica.fandom.com/wiki/Subnautica_2)

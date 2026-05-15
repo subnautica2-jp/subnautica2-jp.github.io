@@ -1,42 +1,52 @@
 # 素材・アイテム概要
 
-<div class="pre-release-notice">
-※ 2026年4月時点で公式から公開された具体的な素材・アイテムリストは限定的です。確定情報はEA開始後に追記します。
-</div>
+> Subnautica 2 EA で確認されている主要素材の一覧。具体的な必要数値・ドロップ率等は EA 直後で Tier 1 ソースの裏取りが浅いため、本サイトでは入手バイオームと用途を中心に記載します。
 
-## 想定される素材体系
+## 鉱物素材
 
-Subnauticaシリーズ全般を踏襲する場合、以下のような素材区分が想定されます。
+| 素材 | 主な入手場所 | 用途 |
+|------|-------------|------|
+| **Titanium**（チタニウム） | 全域に普遍的に分布。Cicada Wreck 周辺集中 | 基本構造材・Titanium Ingot |
+| **Quartz**（石英） | Coral Domes 内壁、砂地海底 | Glass、Scanner |
+| **Copper**（銅） | 洞窟壁・崖・岩棚にクラスタ | Battery、電子部品 |
+| **Lead**（鉛） | 深部地形、Cicada Wreck 周辺 | 放射線対策・配管 |
+| **Silver**（銀） | 深部洞窟系内部 | Wiring Kit、Wakemaker |
+| **Lithium**（リチウム） | 洞窟深部のサンゴアーチ近く | 上位バッテリー類 |
+| **Magnetite**（磁鉄鉱） | Sparse Plains | 高度電子機器 |
+| **Kyanite**（カイヤナイト） | Sparse Plains / Thermal Spires | 高圧装甲 |
+| **Gold**（金） | Karakorum 東部の高温地帯 | 高度電子機器 |
+| **Sulfur**（硫黄） | Graveyard / Thermal Spires / Karakorum | バッテリー、Strong Acid |
+| **Enamel** | Karakorum 東部 | 異星構造物クラフト |
+| **Conduit Crystal** | Alien Power Plant 付近のみ | 異星エネルギー機器 |
+| **Alien Alloy** | Overgrown Ruins | 高度クラフト |
 
-### 基礎金属
-- **Titanium**（チタニウム）系 — 基地建設・乗り物の主要素材
-- **Copper**（銅）— 電気系装備の素材
-- **Lead**（鉛）— 放射線対策
+## 生物・植物素材
 
-### レア金属
-- **Diamond**（ダイヤ）— 切削・高性能ツール
-- **Lithium**（リチウム）— 高性能装備
+| 素材 | 入手場所 | 用途 |
+|------|---------|------|
+| **Kelp Stalks** | Kelp Forest | 食料・繊維 |
+| **Coral Shavings** | Coral Gardens（Survival Multitool で採取） | 各種クラフト |
+| **Gel Sacks** | Jelly Plateaus | シーリング・薬剤 |
+| **Necrolei Cyst** | Necrolei Zone（Stilt Orb から採取） | **Strong Acid** 原料 |
+| **Acidic Raion Pouch** | 紫緑 Raion 植物（採取時に毒ガス） | 酸性試薬 |
+| **Medical Gel Sac** | 同上 Raion 植物 | 医療用 |
+| **Limestone Outcrops** | Kelp Forest 等の浅瀬 | Titanium / Copper 採取源 |
 
-### 生物系
-- **Creature Egg** — 飼育・解析素材
-- **特定の魚** — 食料・料理素材
+## 加工素材
 
-### 建材・追加素材
-- **Glass**（ガラス）— 基地の窓・乗り物のキャノピー
-- **Plasteel Ingot** — 上位構造材
+- **Titanium Ingot**: Titanium ×複数で生成
+- **Glass**: Quartz から Fabricator で生成
+- **Wiring Kit**: Copper を加工
+- **Power Cell / Battery**: 電子部品＋エネルギー素材
+- **Strong Acid**: Necrolei Cyst から生成（特殊クラフトに使用）
 
-> ※ 上記はSubnauticaシリーズ過去作からの推測です。Subnautica 2 で名称・体系が変更される可能性があります。
+## 注意事項
 
-## 確定情報待ちの項目
-
-- 全素材リスト
-- 各素材の入手バイオーム・レシピ
-- 鉱床・採取地点
-- 加工チェーン（金属インゴット化等）
-- 新規素材の有無
+- 各素材の正確な必要数・加工チェーンの数値は EA パッチで変動する可能性があります
+- 入手バイオームは複数の二次ソースで一致する範囲のみ記載しています
 
 ## 情報ソース
 
-- [公式 Dev Vlog プレイリスト](https://www.youtube.com/playlist?list=PL_MvZYBBisFa33IvGtXwRnhlAdaAngLvL)
-- [Fandom Subnautica 2 Wiki](https://subnautica2.fandom.com/wiki/Subnautica_2_Wiki)
-- [supercraft.host Subnautica 2 wiki](https://supercraft.host/wiki/subnautica-2/)
+- [Steam Community](https://steamcommunity.com/app/1962700)
+- [wiki.subnautica.com](https://wiki.subnautica.com/sn2)
+- [Subnautica Wiki (Fandom)](https://subnautica.fandom.com/wiki/Subnautica_2)

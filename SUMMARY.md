@@ -5,8 +5,7 @@
 ## 基本情報
 
 * [ゲーム概要](game-overview.md)
-* [リリース前情報まとめ](pre-release-info.md)
-* [Early Access開始までのチェックリスト](getting-ready.md)
+* [マルチプレイ仕様](multiplayer.md)
 
 ## 序盤攻略
 
@@ -18,33 +17,42 @@
 ## バイオーム
 
 * [バイオーム概要](biomes/README.md)
-  * [Graveyard（グレイブヤード）](biomes/graveyard.md)
-  * [Plateaus（プラトー）](biomes/plateaus.md)
+  * [Graveyard Spires（墓場の尖塔）](biomes/graveyard.md)
+  * [Kelp Forest（ケルプフォレスト）](biomes/kelp-forest.md)
+  * [Sparse Plains（スパース平原）](biomes/sparse-plains.md)
+  * [Jelly Plateaus（ゼリー高原）](biomes/plateaus.md)
   * [Thermal Spires（サーマルスパイア）](biomes/thermal-spires.md)
+  * [Void（ボイド）](biomes/void.md)
 
 ## 生物図鑑
 
 * [生物図鑑概要](creatures/README.md)
-  * [Wakemaker（ウェイクメイカー）](creatures/wakemaker.md)
+  * [Collector Leviathan（コレクター）](creatures/collector-leviathan.md)
+  * [Void Leviathan（ボイド）](creatures/void-leviathan.md)
   * [Hammerhead（ハンマーヘッド）](creatures/hammerhead.md)
-  * [Collector Leviathan（コレクター・リヴァイアサン）](creatures/collector-leviathan.md)
+  * [捕食者・その他生物](creatures/other-creatures.md)
 
-## 素材・アイテム
+## ツール・装備
 
-* [素材・アイテム概要](resources/README.md)
+* [ツール概要](tools/README.md)
+  * [Wakemaker（ハンドプロペラ）](tools/wakemaker.md)
 
 ## 乗り物
 
 * [乗り物概要](vehicles/README.md)
-  * [Tadpole（タッドポール）](vehicles/tadpole.md)
+  * [Tadpole（タドポール）](vehicles/tadpole.md)
+
+## Adaptations（適応能力）
+
+* [Adaptations概要](adaptations/README.md)
 
 ## 基地建設
 
 * [基地建設概要](building/README.md)
 
-## マルチプレイ
+## 素材・アイテム
 
-* [マルチプレイ仕様](multiplayer.md)
+* [素材・アイテム概要](resources/README.md)
 
 ## ストーリー・データバンク
 
@@ -53,7 +61,7 @@
 
 ## その他
 
-* [パッチノート](patch-notes.md)
+* [パッチノート・ロードマップ](patch-notes.md)
 * [情報源一覧](sources.md)
 * [更新履歴](changelog.md)
 

@@ -1,10 +1,8 @@
 # Subnautica 2 日本語攻略まとめ
 
-> 本サイトは海外コミュニティ（Steam / 公式Dev Vlog / Fandom / Reddit等）のSubnautica 2 関連情報を日本語でまとめたものです。情報源は各ページ下部および「情報源一覧」ページを参照してください。
+> 本サイトは海外コミュニティ（Steam Community / Reddit / Unknown Worlds公式 / 海外Wiki等）のSubnautica 2 関連情報を日本語でまとめたものです。情報源は各ページ下部および「情報源一覧」ページを参照してください。
 
-<div class="pre-release-notice">
-※ 本サイトの情報はEarly Access開始前（2026年4月時点）の公開情報・Dev Vlog等に基づきます。リリース後に内容が変更される可能性があります。最終的な仕様は実際のゲーム内表示を優先してください。
-</div>
+> ※ Subnautica 2 は **Early Access（早期アクセス）** で配信中です。仕様・バランスは EA 期間中の更新で変動する可能性があります。最終的な仕様は実際のゲーム内表示・[公式パッチノート](https://store.steampowered.com/news/app/1962700) を優先してください。
 
 ---
 
@@ -12,12 +10,12 @@
 
 - タイトル: Subnautica 2（サブノーティカ2）
 - 開発元: Unknown Worlds Entertainment
-- パブリッシャー: Krafton（買収後）
+- パブリッシャー: Krafton
 - ジャンル: 海洋サバイバル・クラフト・探索
-- プラットフォーム: PC (Steam) / Xbox Series X|S（クロスプレイ対応）
-- Early Access開始: **2026年5月予定**（具体日未定）
-- マルチプレイ: 最大4人 Co-op、シングル↔マルチ変換可能
-- 視点: First-Person（Steamタグ）
+- プラットフォーム: PC（Steam / Epic Games Store / Microsoft Store） / Xbox Series X|S
+- Early Access開始: **2026年5月14日**
+- マルチプレイ: 最大4人 Co-op、シングル↔マルチ変換可能、クロスプレイ（PC ⇄ Xbox）
+- 視点: First-Person
 
 ---
 
@@ -25,35 +23,37 @@
 
 ### 基本情報
 - [ゲーム概要](game-overview.md)
-- [リリース前情報まとめ](pre-release-info.md)
-- [Early Access開始までのチェックリスト](getting-ready.md)
+- [マルチプレイ仕様](multiplayer.md)
 
 ### 序盤攻略
-- [序盤攻略概要](getting-started/index.html) — [スタート時の流れ](getting-started/early-flow.md) / [生存の基本](getting-started/survival-basics.md) / [初期装備とツール](getting-started/starter-tools.md)
+- [序盤攻略概要](getting-started/index.html) — [スタート時の流れ](getting-started/early-flow.html) / [生存の基本](getting-started/survival-basics.html) / [初期装備とツール](getting-started/starter-tools.html)
 
 ### バイオーム
-- [バイオーム概要](biomes/index.html) — [Graveyard](biomes/graveyard.md) / [Plateaus](biomes/plateaus.md) / [Thermal Spires](biomes/thermal-spires.md)
+- [バイオーム概要](biomes/index.html) — Graveyard Spires / Kelp Forest / Sparse Plains / Jelly Plateaus / Thermal Spires / Void
 
 ### 生物図鑑
-- [生物図鑑概要](creatures/index.html) — [Wakemaker](creatures/wakemaker.md) / [Hammerhead](creatures/hammerhead.md) / [Collector Leviathan](creatures/collector-leviathan.md)
+- [生物図鑑概要](creatures/index.html) — Collector Leviathan / Void Leviathan / Hammerhead / その他
 
-### 素材・アイテム
-- [素材・アイテム概要](resources/index.html)
+### ツール・装備
+- [ツール概要](tools/index.html) — [Wakemaker](tools/wakemaker.html)
 
 ### 乗り物
-- [乗り物概要](vehicles/index.html) — [Tadpole](vehicles/tadpole.md)
+- [乗り物概要](vehicles/index.html) — [Tadpole](vehicles/tadpole.html)
+
+### Adaptations（適応能力）
+- [Adaptations概要](adaptations/index.html)
 
 ### 基地建設
 - [基地建設概要](building/index.html)
 
-### マルチプレイ
-- [マルチプレイ仕様](multiplayer.md)
+### 素材・アイテム
+- [素材・アイテム概要](resources/index.html)
 
 ### ストーリー
-- [ストーリー概要](story/index.html) — [世界観・舞台設定](story/setting.md)
+- [ストーリー概要](story/index.html) — [世界観・舞台設定](story/setting.html)
 
 ### その他
-- [パッチノート](patch-notes.md)
+- [パッチノート・ロードマップ](patch-notes.md)
 - [情報源一覧](sources.md)
 
 ---

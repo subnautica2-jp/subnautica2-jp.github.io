@@ -1,33 +1,33 @@
 # Thermal Spires（サーマルスパイア）
 
-<div class="pre-release-notice">
-※ 2026年4月時点で公開された情報はコンセプト段階です。確定情報はEA開始後に追記します。
-</div>
+> Karakorum 領域に属するバイオーム。**地熱噴出柱（hydrothermal vents）が立ち並ぶ高温地帯**。
 
 ## 概要
 
-Subnautica 2 のバイオームコンセプトのひとつとして公開。実装段階の詳細は2026年4月時点で公式から公表されていません。
+熱水噴出孔と尖塔状の岩石地形が広がる、Subnautica 2 EA 中盤以降の主要バイオーム。**熱対策の Adaptation または装備が必要**となります。
 
-## 想定される特徴
+## 特徴
 
-名称「Thermal Spires（熱の尖塔）」から、**熱水噴出孔（hydrothermal vents）・尖塔状の岩石地形** が広がるエリアと推測されます。Subnautica無印の Inactive Lava Zone / Lost River のような **高温・特殊資源** に関連するエリアである可能性があります。
+- **Kyanite**（高圧装甲素材）、**Sulfur** などの中盤素材が産出
+- **Thermal Power Plant**（地熱発電施設）の設置が可能
+- 高温エリアのため熱対策装備または **熱耐性 Adaptation** の取得が推奨
+- 危険度中
 
-熱に関連するエリアは以下の特徴を持つことが多いです（前作の傾向）:
+## 熱耐性 Adaptation について
 
-- 特殊な高温対応素材・装備の必要性
-- 熱依存の固有生物
-- 中盤以降に到達するエンドゲームバイオームの位置付け
+**Wanderer 地区** にある **感染状態の Angel Comb** をサウンドガン等で浄化することで、**熱耐性 Adaptation** を獲得できるとの報告があります。Karakorum 深部・Thermal Spires への探索前に取得しておくとよいでしょう。
 
-## 確定情報待ちの項目
+詳細は [Adaptations 概要](../adaptations/README.md) を参照。
 
-- 実装段階（コンセプトのみ／一部実装／EA初期実装）
-- 実際の地形・色調
-- 熱ダメージシステムの有無
-- 出現生物
-- 採取可能な素材
-- 推奨進行段階
+## 確認できていない事項
+
+- 正確な深度範囲
+- 全出現生物リスト
+- Karakorum Power Plant との接続関係
 
 ## 情報ソース
 
-- [公式 Dev Vlog プレイリスト](https://www.youtube.com/playlist?list=PL_MvZYBBisFa33IvGtXwRnhlAdaAngLvL)
-- [公式コミュニティハブ subnautica2.gg](https://subnautica2.gg/)
+- [Steam Community](https://steamcommunity.com/app/1962700)
+- [Steam Community Discussion: 熱耐性 Adaptation](https://steamcommunity.com/app/1962700/discussions/0/844006002571364479/)
+- [Subnautica Wiki (Fandom)](https://subnautica.fandom.com/wiki/Subnautica_2)
+- [wiki.subnautica.com](https://wiki.subnautica.com/sn2/Biomes)
